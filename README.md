@@ -91,9 +91,9 @@ This is long winded but worth it.
 - This gets all the Metadata attributes & their % rarity for the NFT URLs and throws them into AssetLinks.csv.
 
 ## Important - Price your NFTs
--  Inside AssetLinks.csv add prices to your NFTs in Ethereum before runing
+-  Inside AssetLinks.csv add prices to your NFTs in Ethereum before running
 
 ### Run list.py
-- This should just run
+- This should just run.
 
 Phew, you are done and now have a collection of shiny NFTs on OpenSea! Congrats
