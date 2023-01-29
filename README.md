@@ -17,7 +17,7 @@ You can check out the OpenSea NFT collection I made with this project here: http
 
 
 ### <b> If this proves useful to you or you get NFT rich consider buying me a coffee: </b>
-<a href="https://www.buymeacoffee.com/tomhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/smittyjensen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # Before you get started
 
